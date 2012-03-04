@@ -25,7 +25,6 @@
 # OTHER DEALINGS IN THE SOFTWARE.
 
 import os
-from sure import version
 from setuptools import setup
 
 
@@ -39,7 +38,7 @@ def get_packages():
     return packages
 
 setup(name='sure',
-    version=version,
+    version='0.8.1',
     description='assertion toolbox for python',
     author='Gabriel Falcao',
     author_email='gabriel@nacaolivre.org',
