@@ -1,0 +1,6 @@
+From: Piet Delport <pjdelport@gmail.com>
+Subject: [PATCH] t/python3-support
+
+Add Python 3 support.
+
+Signed-off-by: Piet Delport <pjdelport@gmail.com>
