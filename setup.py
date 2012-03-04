@@ -48,4 +48,5 @@ setup(name='sure',
     install_requires=[
         "nose",
     ],
+    use_2to3=True,
 )
